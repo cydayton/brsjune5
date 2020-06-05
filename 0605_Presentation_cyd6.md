@@ -8,9 +8,7 @@ output:
 css: style.css
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 ## Time Series Figure
 
